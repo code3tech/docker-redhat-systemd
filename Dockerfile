@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8/ubi
+FROM registry.access.redhat.com/ubi7/ubi
 
 LABEL maintainer="Code3 Tech <it.code3@gmail.com>"
 
